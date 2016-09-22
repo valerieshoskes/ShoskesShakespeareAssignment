@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesShakespeareAssignment\ShoskesShakespeareAssignment\bin\Debug\ShoskesShakespeareAssignment.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesShakespeareAssignment\ShoskesShakespeareAssignment\bin\Debug\ShoskesShakespeareAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesShakespeareAssignment\ShoskesShakespeareAssignment\bin\Debug\ShoskesShakespeareAssignment.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesShakespeareAssignment\ShoskesShakespeareAssignment\obj\Debug\ShoskesShakespeareAssignment.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesShakespeareAssignment\ShoskesShakespeareAssignment\obj\Debug\ShoskesShakespeareAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesShakespeareAssignment\ShoskesShakespeareAssignment\obj\Debug\ShoskesShakespeareAssignment.pdb
